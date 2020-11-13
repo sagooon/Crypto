@@ -3,7 +3,7 @@
 Cryptography is the science of protecting information by encoding it into a secure format. Crypto is an information security tool used for encrypting and decrypting confidential data to prevent it being exploited by third party between the communication channel. It is based on the basic function of cryptography machine. It is an uncomplicated script with less than 25 lines of code. It uses a secrect key code with 39 minimum characters including numbers and alphabets for the data encryption and decryption. Data encrypted with a key code can be decrypted by the same key code only. In such way the third party between a communication channel cannot access to confidential data. It's not so advanced but can be used for general purpose. It was developed by [SaGoOn](http://sagooon.renderforestsites.com).
 
 
-![Arbitrary](https://user-images.githubusercontent.com/74248485/98885322-eb4a5900-24b9-11eb-96f2-3dafedf511e5.png)
+![crypto](https://user-images.githubusercontent.com/74248485/99026212-962e4600-2592-11eb-860c-82c460e3f30f.png)
 
 
 ## Requirements
