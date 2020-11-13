@@ -17,7 +17,7 @@ def crypto():
     else: 
         print("Error : Enter the correct choice : ")
                 
-    return newMessage.capitalize()
+    return newMessage.upper()
 
 
 
